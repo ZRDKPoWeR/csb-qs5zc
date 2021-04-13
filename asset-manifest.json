@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://zrdkpower.github.io/csb-qs5zc/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://zrdkpower.github.io/csb-qs5zc/static/js/main.cd84d416.chunk.js",
+    "main.js.map": "https://zrdkpower.github.io/csb-qs5zc/static/js/main.cd84d416.chunk.js.map",
+    "runtime-main.js": "https://zrdkpower.github.io/csb-qs5zc/static/js/runtime-main.f5d02fcf.js",
+    "runtime-main.js.map": "https://zrdkpower.github.io/csb-qs5zc/static/js/runtime-main.f5d02fcf.js.map",
+    "static/js/2.6018c1b0.chunk.js": "https://zrdkpower.github.io/csb-qs5zc/static/js/2.6018c1b0.chunk.js",
+    "static/js/2.6018c1b0.chunk.js.map": "https://zrdkpower.github.io/csb-qs5zc/static/js/2.6018c1b0.chunk.js.map",
+    "index.html": "https://zrdkpower.github.io/csb-qs5zc/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://zrdkpower.github.io/csb-qs5zc/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6018c1b0.chunk.js.LICENSE.txt": "https://zrdkpower.github.io/csb-qs5zc/static/js/2.6018c1b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5d02fcf.js",
+    "static/js/2.6018c1b0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.cd84d416.chunk.js"
+  ]
+}
